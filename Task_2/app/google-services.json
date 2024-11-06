@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405231881297",
+    "project_id": "tasktwo-11af9",
+    "storage_bucket": "tasktwo-11af9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405231881297:android:7401cf1af8e64f8d7ebc70",
+        "android_client_info": {
+          "package_name": "com.example.tasktwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405231881297-7fmj56dbs6ctepn0st4jqmekjppdpbao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2aFZWu-qMZSeQdq3pKatsvY06LWVunw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405231881297-7fmj56dbs6ctepn0st4jqmekjppdpbao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
